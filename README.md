@@ -1,6 +1,8 @@
 <h1>Goals for now</h1>
 
 <h3>train this small model on all text possible data (from pdf to text files) </h3>
+when it works :
+<h3>take the voice libraries and link them to this model</h3>
 
 <h5>we can take it like the main model and start experimenting</h5>
 
